@@ -44,3 +44,29 @@ The system enables real-time gesture recognition through a webcam and converts r
 ---
 
 ## 📂 Project Structure
+├── dataset/                # Sign language image dataset
+├── models/                 # Trained deep learning models
+├── src/                    # Source code
+│   ├── gesture_detection.py    # Hand gesture detection using OpenCV
+│   ├── prediction.py           # Model loading and gesture prediction
+│   ├── text_to_speech.py       # Text-to-speech conversion
+│   └── main.py                 # Main application file
+├── requirements.txt        # List of required Python libraries
+├── README.md               # Project documentation
+
+
+## 📌 Applications
+- Assistive communication tool for deaf and mute individuals  
+- Educational aid for learning and practicing sign language  
+- Inclusive human–computer interaction systems  
+- Accessibility solutions in public services and workplaces  
+- Smart classrooms and e-learning platforms  
+
+
+## 🌍 Impact
+This project promotes inclusive communication by reducing barriers between sign language users and non-signers.  
+By leveraging artificial intelligence and computer vision, it enhances accessibility, encourages social interaction,  
+and supports educational opportunities for individuals with speech and hearing impairments.  
+The system contributes toward building a more inclusive and accessible digital society.
+
+
